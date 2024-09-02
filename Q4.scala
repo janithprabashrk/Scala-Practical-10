@@ -2,7 +2,7 @@ class Account(private var balance: Double) {
   def deposit(amount: Double): Unit = {
     if (amount > 0) {
       balance += amount
-      println(s"Deposited $$${amount}. New balance: $$${balance}")
+      println(s"Deposited ${amount}LKR. New balance: ${balance}LKR")
     } else {
       println("Deposit amount must be positive.")
     }
@@ -11,7 +11,7 @@ class Account(private var balance: Double) {
   def withdraw(amount: Double): Unit = {
     if (amount > 0 && amount <= balance) {
       balance -= amount
-      println(s"Withdrew $$${amount}. New balance: $$${balance}")
+      println(s"Withdrew ${amount} LKR. New balance: ${balance} LKR")
     } else if (amount > balance) {
       println("Insufficient balance.")
     } else {
@@ -23,7 +23,7 @@ class Account(private var balance: Double) {
     if (amount > 0 && amount <= balance) {
       this.withdraw(amount)
       targetAccount.deposit(amount)
-      println(s"Transferred $$${amount} to target account.")
+      println(s"Transferred ${amount} LKR to target account.")
     } else if (amount > balance) {
       println("Insufficient balance for transfer.")
     } else {
@@ -41,7 +41,7 @@ class Account(private var balance: Double) {
     }
   }
 
-  override def toString: String = s"Account(balance: $$${balance})"
+  override def toString: String = s"Account(balance: ${balance} LKR)"
 }
 
 class Bank(accounts: List[Account]) {
@@ -69,10 +69,10 @@ object Main extends App {
   println("Accounts with negative balances:")
   bank.accountsWithNegativeBalances.foreach(println)
 
-  println(s"Total balance in the bank: $$${bank.totalBalance}")
+  println(s"Total balance in the bank: ${bank.totalBalance} LKR")
 
   bank.applyInterestToAll()
   println("Final balances after applying interest:")
   bank.accountsWithNegativeBalances.foreach(println)
-  println(s"Total balance in the bank after interest: $$${bank.totalBalance}")
+  println(s"Total balance in the bank after interest: ${bank.totalBalance} LKR")
 }
