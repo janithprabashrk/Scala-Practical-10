@@ -12,7 +12,7 @@ class Account(private var balance: Double) {
   def withdraw(amount: Double): Unit = {
     if (amount > 0 && amount <= balance) {
       balance -= amount
-      println(s"Withdrew $$${amount}. New balance: $$${balance}")
+      println(s"Withdrew ${amount} LKR. New balance: $$${balance}")
     } else if (amount > balance) {
       println("Insufficient balance.")
     } else {
@@ -24,7 +24,7 @@ class Account(private var balance: Double) {
     if (amount > 0 && amount <= balance) {
       this.withdraw(amount)
       targetAccount.deposit(amount)
-      println(s"Transferred $$${amount} to target account.")
+      println(s"Transferred ${amount} LKR to target account.")
     } else if (amount > balance) {
       println("Insufficient balance for transfer.")
     } else {
@@ -43,8 +43,8 @@ object Main extends App {
   account1.withdraw(150)
   account1.transfer(300, account2)
 
-  println(s"Account 1 balance: $$${account1.checkBalance()}")
-  println(s"Account 2 balance: $$${account2.checkBalance()}")
+  println(s"Account 1 balance: ${account1.checkBalance()}LKR")
+  println(s"Account 2 balance: ${account2.checkBalance()}LKR")
 }
 
 
