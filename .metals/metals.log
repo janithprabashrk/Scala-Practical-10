@@ -1,0 +1,492 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1242d519]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@290d652b]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1242d519]
+2024.09.02 19:54:11 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.02 19:54:11 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:54:13 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Untitled-1.scala
+2024.09.02 19:54:13 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:54:14 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 02, 2024 7:54:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.09.02 19:54:16 INFO  Running List(C:\Users\USER\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:54:16 INFO  Attempting to connect to the build server...
+2024.09.02 19:54:16 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:54:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 19:54:18 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:54:19 INFO  BSP server: Starting compilation server
+2024.09.02 19:54:22 INFO  no build target found for c:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:54:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:54:31 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:54:59 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.09.02 19:54:59 INFO  BSP server: For more details, please see 'C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\stacktraces\1725287098-2520637120233760005.log'
+2024.09.02 19:54:59 INFO  BSP server: Running
+2024.09.02 19:54:59 INFO  BSP server:   C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.09.02 19:54:59 INFO  BSP server: might give more details.
+2024.09.02 19:55:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:16 ERROR Timeout waiting for 'build/initialize' response
+2024.09.02 19:55:16 WARN  Retrying connection to the build server scala-cli
+2024.09.02 19:55:16 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:55:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 19:55:18 INFO  BSP server: Starting compilation server
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 02, 2024 7:55:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:45 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:45 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:45 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:45 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:45 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:47 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:47 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:47 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:48 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:49 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:48 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:49 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:53 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.09.02 19:55:53 INFO  BSP server: For more details, please see 'C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\stacktraces\1725287153-864821433055495269.log'
+2024.09.02 19:55:53 INFO  BSP server: Running
+2024.09.02 19:55:53 INFO  BSP server:   C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.09.02 19:55:53 INFO  BSP server: might give more details.
+2024.09.02 19:55:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:55 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:55 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:55:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:16 ERROR Timeout waiting for 'build/initialize' response
+2024.09.02 19:56:16 WARN  Retrying connection to the build server scala-cli
+2024.09.02 19:56:16 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:56:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 19:56:18 INFO  BSP server: Starting compilation server
+2024.09.02 19:56:18 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 19:56:18 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:29 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:31 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:31 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:31 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:31 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:32 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:32 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:32 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:32 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:35 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:35 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:35 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:41 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:44 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:52 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 19:56:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:53 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.09.02 19:56:53 INFO  BSP server: For more details, please see 'C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\stacktraces\1725287213-8563363252345697879.log'
+2024.09.02 19:56:53 INFO  BSP server: Running
+2024.09.02 19:56:53 INFO  BSP server:   C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.09.02 19:56:53 INFO  BSP server: might give more details.
+2024.09.02 19:56:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:56:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 02, 2024 7:57:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\.reports\metals-full\2024-09-02\r_compiler-error_19-57-00-434.md
+2024.09.02 19:57:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:01 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:02 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:03 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:03 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:05 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:07 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:07 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:08 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:08 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:08 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:09 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:08 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:09 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:12 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:12 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:12 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:12 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:13 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:13 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:14 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:16 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:16 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:17 ERROR Timeout waiting for 'build/initialize' response
+2024.09.02 19:57:17 WARN  Retrying connection to the build server scala-cli
+2024.09.02 19:57:17 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:57:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 19:57:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:18 INFO  BSP server: Starting compilation server
+2024.09.02 19:57:19 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:19 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:20 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:21 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:21 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:21 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:25 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:26 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:26 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:27 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 19:57:27 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:27 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:52 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.09.02 19:57:52 INFO  BSP server: For more details, please see 'C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\stacktraces\1725287272-10655253396980592969.log'
+2024.09.02 19:57:52 INFO  BSP server: Running
+2024.09.02 19:57:52 INFO  BSP server:   C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.09.02 19:57:52 INFO  BSP server: might give more details.
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:58 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:57:59 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:58:11 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 19:58:11 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:58:11 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:58:17 ERROR Timeout waiting for 'build/initialize' response
+2024.09.02 19:58:17 WARN  Retrying connection to the build server scala-cli
+2024.09.02 19:58:17 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:58:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 19:58:18 INFO  BSP server: Starting compilation server
+2024.09.02 19:58:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:58:52 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 19:58:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:58:53 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.09.02 19:58:53 INFO  BSP server: For more details, please see 'C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\stacktraces\1725287333-5651712834499017398.log'
+2024.09.02 19:58:53 INFO  BSP server: Running
+2024.09.02 19:58:53 INFO  BSP server:   C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.09.02 19:58:53 INFO  BSP server: might give more details.
+2024.09.02 19:58:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 19:59:17 ERROR Timeout waiting for 'build/initialize' response
+2024.09.02 19:59:17 WARN  Retrying connection to the build server scala-cli
+2024.09.02 19:59:17 INFO  Running BSP server List(C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\ide-envs.json, C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10)
+2024.09.02 19:59:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.metals\bsp.trace.json or C:\Users\USER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.02 19:59:18 INFO  BSP server: Starting compilation server
+2024.09.02 19:59:53 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.09.02 19:59:53 INFO  BSP server: For more details, please see 'C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\.scala-build\stacktraces\1725287393-1814665676485397409.log'
+2024.09.02 19:59:53 INFO  BSP server: Running
+2024.09.02 19:59:53 INFO  BSP server:   C:\Users\USER\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.09.02 19:59:53 INFO  BSP server: might give more details.
+2024.09.02 20:00:17 ERROR Timeout waiting for 'build/initialize' response
+2024.09.02 20:00:17 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:745)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:619)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.09.02 20:02:15 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 02, 2024 8:02:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.02 20:02:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:02:24 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 02, 2024 8:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.09.02 20:10:51 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:10:51 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:10:51 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala
+2024.09.02 20:10:51 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:10:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:04 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala
+2024.09.02 20:11:04 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:11 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:12 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:15 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:17 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:18 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:18 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:19 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:19 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:19 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:21 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:21 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:22 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:25 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:25 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:25 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:25 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:25 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:26 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:27 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:27 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:28 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:28 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:28 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:28 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:28 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:30 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:30 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:33 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:35 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:37 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:41 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:42 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:46 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 20:11:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:46 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala
+2024.09.02 20:11:46 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:47 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:48 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:49 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:50 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:51 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:11:53 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala
+2024.09.02 20:11:53 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:14:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:14:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:14:54 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala
+2024.09.02 20:14:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:14:54 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:09 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:09 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:09 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:10 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:36 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:39 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:38 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:40 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:15:43 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala
+2024.09.02 20:15:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:34 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:35 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:43 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala
+2024.09.02 20:18:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:51 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:52 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:18:53 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:19:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:19:43 WARN  no build target for: C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala
+2024.09.02 20:19:43 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:19:57 INFO  no build target found for C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Practical-10\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.02 20:21:14 INFO  Shutting down server
+2024.09.02 20:21:14 INFO  shutting down Metals
+2024.09.02 20:21:14 INFO  Exiting server
